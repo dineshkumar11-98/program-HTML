@@ -1,0 +1,45 @@
+a{
+	text-decoration: none;
+	color: black;
+}
+#main-header {
+	background: lightgray;
+	margin-top: 0;
+	padding: 5px;
+	text-align: center;
+	font-size: 14px;
+	font-family: courier;
+	color: white;
+}
+#navbar{
+	background: lightgray;
+}
+.menu{
+	padding: 0;
+	margin: 0;
+	background-color: lightgray;
+	
+}
+.menu img{
+	float:left;
+	margin: 0;
+	padding: 0;
+}
+.menu li{
+	list-style: none;
+	float:left;
+	margin: 0;
+	padding: 0;
+	width: 50px;
+
+}
+.container{
+	float: right;
+	width: 100%;
+	font-family: courier;
+}
+#footer{
+	text-align: center;
+	
+	color: red;
+}
