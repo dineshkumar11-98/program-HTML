@@ -1,0 +1,61 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+
+}
+header{
+	background-color: #3B5998;
+	height:82px;
+	border-bottom: 1px solid #133783;
+	color: white;
+}
+.headerblock{
+	width: 992px;
+	margin:0 auto;
+	
+}
+.logo{
+	
+	width: 50%;
+	float: left;
+}
+.logo img{
+	height: 70px;
+	width: 200px;
+	padding-top: 10px;
+}
+
+.login{
+	width: 50%;
+	float: left;
+	padding-top: 20px;
+	
+}
+.email{
+	float: left;
+	
+}
+.email input[type="text"]{
+	height: 20px;
+	width: 150px;
+	border:1px solid #1d2a5b;
+}
+.password input[type="text"]{
+	height: 20px;
+	width: 150px;
+	border:1px solid #1d2a5b;
+}
+.password{
+	float: left;
+	margin-left: 10px;
+}
+.logibutton{
+	float: left;
+	padding-top: 20px;
+}
+.email label{
+	padding-bottom: 10px;
+	border-color: black;
+}
